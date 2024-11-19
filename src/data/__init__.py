@@ -1,0 +1,2 @@
+from src.data.federated_datamodule import FederatedDataModule
+from src.data.cifar10_datamodule import CIFAR10DataModule
